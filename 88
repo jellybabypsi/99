@@ -1,4 +1,5 @@
 sudo su -_017321794
+Delay: 3
 <off>
 mkfs ext4 dev/sda0
 mkfs ext4 dev/sda1
